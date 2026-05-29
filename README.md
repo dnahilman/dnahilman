@@ -132,10 +132,6 @@ const hilman = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnahilman&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dnahilman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
 </div>
 
 ---
@@ -156,25 +152,12 @@ const hilman = {
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/dnahilman/goten">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnahilman&repo=goten&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27" alt="goten" />
-</a>
-<a href="https://github.com/dnahilman/region.id">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnahilman&repo=region.id&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27" alt="region.id" />
-</a>
-
-<a href="https://github.com/dnahilman/goscrap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnahilman&repo=goscrap&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27" alt="goscrap" />
-</a>
-<a href="https://github.com/dnahilman/april">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnahilman&repo=april&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27" alt="april" />
-</a>
-
-</div>
-
-> **goten** — composable authentication for Go · **region.id** — static API for Indonesian administrative regions · **goscrap** — Bandung barbershop Google Maps scraper · **april** — TypeScript utility package on JSR
+| Project | Stars | What it is |
+| :------ | :---: | :--------- |
+| 🔐 **[goten](https://github.com/dnahilman/goten)** | ![stars](https://img.shields.io/github/stars/dnahilman/goten?style=flat&logo=github&color=7aa2f7&labelColor=1a1b27) | Composable authentication for **Go** — inspired by better-auth |
+| 🗺️ **[region.id](https://github.com/dnahilman/region.id)** | ![stars](https://img.shields.io/github/stars/dnahilman/region.id?style=flat&logo=github&color=7aa2f7&labelColor=1a1b27) | Static **API** for Indonesian administrative regions — provinces → villages |
+| ✂️ **[goscrap](https://github.com/dnahilman/goscrap)** | ![stars](https://img.shields.io/github/stars/dnahilman/goscrap?style=flat&logo=github&color=7aa2f7&labelColor=1a1b27) | Google Maps scraper for Bandung barbershops, built with **Svelte** |
+| 📦 **[april](https://github.com/dnahilman/april)** | ![stars](https://img.shields.io/github/stars/dnahilman/april?style=flat&logo=github&color=7aa2f7&labelColor=1a1b27) | **TypeScript** utility package published on **JSR** |
 
 ---
 
