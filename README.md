@@ -1,6 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  dnahilman · GitHub Profile                    ║ -->
-<!-- ║  TODO: replace <your-handle> below with your real LinkedIn URL ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- HEADER BANNER -->
@@ -21,8 +20,7 @@
 <p>
   <a href="https://hilmarch.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hilmarch.vercel.app-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hilmarch03@gmail.com"><img src="https://img.shields.io/badge/Gmail-hilmarch03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- TODO: replace <your-handle> with your real LinkedIn username -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hilmarch/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
