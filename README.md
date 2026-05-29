@@ -125,11 +125,6 @@ const hilman = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dnahilman&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnahilman&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnahilman&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub streak" />
 
 </div>
